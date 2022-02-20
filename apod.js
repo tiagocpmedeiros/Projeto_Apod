@@ -14,7 +14,7 @@ function buscar() {
     })
   
     function apiData(busca) {
-      const img   = $(".imagem")
+      const img   = $(".img")
       const title = $(".titulo")
       const autor = $(".autor")
       const expli = $(".explicacao")
